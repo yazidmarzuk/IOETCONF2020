@@ -611,3 +611,8 @@
     font-weight:600
   }
 }
+
+.subtext {
+  text-size-adjust: .5em;
+  font-size: medium;
+}
