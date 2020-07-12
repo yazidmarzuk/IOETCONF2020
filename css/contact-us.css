@@ -4,7 +4,7 @@
 html {
   font-size: 18px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 200;
   color: #333;
   font-family: "Nunito Sans", sans-serif;
 }
@@ -12,6 +12,8 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
+  width: fit-content;
+  -webkit-box-align: center;
   background-color: #ecf0f9;
   background-attachment: fixed;
 }
